@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3226116126
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: spawn
+      Dependencies: {}
